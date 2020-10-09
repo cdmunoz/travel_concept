@@ -1,15 +1,12 @@
 # travel_concept
 
-A new travel concept Flutter application.
+This repo is a sample with Flutter in which I'm trying to learn some Dart's and
+Flutter concepts trying to replicate the behavior of an Expanding Collection taken
+from [this particular project](https://www.uplabs.com/posts/expanding-collection-ae9acc7e-28ee-41f1-9ba7-714d95292811)
+
+Currently I'm using a basic implementation of BLoC with notifiers and listeners.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,

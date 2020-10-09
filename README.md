@@ -4,7 +4,7 @@ This repo is a sample with Flutter in which I'm trying to learn some Dart's and
 Flutter concepts trying to replicate the behavior of an Expanding Collection taken
 from [this particular project](https://www.uplabs.com/posts/expanding-collection-ae9acc7e-28ee-41f1-9ba7-714d95292811)
 
-![](imgs/Flutter-TravelConceptDemo.gif =250x)
+![]<img src="imgs/Flutter-TravelConceptDemo.gif" width="250"/>
 
 **Figure 1** - Concept Demo
 
